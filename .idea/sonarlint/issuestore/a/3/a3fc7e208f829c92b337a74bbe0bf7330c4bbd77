@@ -1,0 +1,8 @@
+
+‹
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦þ8ç‰ë¾î1
+L	java:S106#"+Replace this use of System.out by a logger.(ÓÑÔîüÿÿÿÿ8í‰ë¾î1
+F	java:S106&"+Replace this use of System.out by a logger.(ƒÂéq8í‰ë¾î1
+M
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8àÙð¾î1
